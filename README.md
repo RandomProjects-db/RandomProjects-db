@@ -1,6 +1,6 @@
 # Welcome to My page
 
-![Banner](./assets/quantum-computing.png)
+![Banner](./assets/quantum.png)
 
 ## 🚀 About Me  
 
