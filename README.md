@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile;Exploring+DevOps%2C+Data+Science;And+Quantum+Computing;Building+Innovative+Tech+Solutions%21;Join+Me+on+This+Exciting+Journey;Always+learning+new+things)](https://git.io/typing-svg)
 
 ![Banner](./assets/quantum.png)
-![My GIF](https://i.makeagif.com/media/7-10-2016/C4KvrW.gif)
 
 ## 🚀 About Me  
 
@@ -52,3 +51,6 @@ result = execute(qc, simulator, shots=1024).result()
 counts = result.get_counts(qc)
 
 print("Bell state measurement results:", counts)
+```
+
+![My GIF](https://i.makeagif.com/media/7-10-2016/C4KvrW.gif)
