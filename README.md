@@ -24,7 +24,6 @@ Currently, I’m working on exciting projects through the
 - 🌱 Contribute to impactful open-source projects.  
 - 🎓 Publish a quantum computing research paper.  
 - 💼 Land a tech internship at a leading company by 2025.  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomProjects-db)](https://github.com/RandomProjects-db/github-readme-stats)
 
 ## 🔗 Fun Section: Create a Bell State  
 
