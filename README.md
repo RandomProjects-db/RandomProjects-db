@@ -1,6 +1,6 @@
 # Welcome to My page
 
-![Banner](https://drive.google.com/file/d/1gJVsNo9gBZM5QEBImD4p3g50Mg-XxY2N/view?usp=share_link)
+![Banner](./assets/quantum-computing.png)
 
 ## 🚀 About Me  
 
