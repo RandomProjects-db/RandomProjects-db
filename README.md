@@ -1,6 +1,6 @@
 ## Fahed Daibes
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile;Exploring+DevOps%2C+Data+Science;And+Quantum+Computing;Building+Innovative+Tech+Solutions%21;Join+Me+on+This+Exciting+Journey;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile;Exploring+DevOps%2C+Data+Science;And+Quantum+Computing;Building+Innovative+Tech+Solutions%21;Always+learning+new+things)](https://git.io/typing-svg)
 
 ![Banner](./assets/quantum.png)
 
