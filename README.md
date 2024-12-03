@@ -1,6 +1,6 @@
 # Welcome to My page
 
-![Banner](https://cdn-icons-png.flaticon.com/256/12608/12608346.png)
+![Banner](<https://cdn-icons-png.flaticon.com/256/12608/12608346.png> =100x100)
 
 ## 🚀 About Me  
 
