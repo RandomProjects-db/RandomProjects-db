@@ -51,3 +51,6 @@ result = execute(qc, simulator, shots=1024).result()
 counts = result.get_counts(qc)
 
 print("Bell state measurement results:", counts)
+```python
+
+![My GIF](https://i.makeagif.com/media/7-10-2016/C4KvrW.gif)
