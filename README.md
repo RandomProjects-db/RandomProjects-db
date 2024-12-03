@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile;Exploring+DevOps%2C+Data+Science;Quantum+Computing;Building+Innovative+Tech+Solutions%21;Join+Me+on+This+Exciting+Journey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile;Exploring+DevOps%2C+Data+Science;And+Quantum+Computing;Building+Innovative+Tech+Solutions%21;Join+Me+on+This+Exciting+Journey)](https://git.io/typing-svg)
 
 ![Banner](./assets/quantum.png)
 
