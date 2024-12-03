@@ -16,7 +16,7 @@ Currently, I’m working on exciting projects through the
 
 - 🔧 **DevOps**: Building automated workflows and optimizing systems.  
 - 📊 **Data Science**: Transforming data into actionable insights.  
-- ⚛️ **Quantum Computing**: Pioneering research in cutting-edge quantum _technologies
+- ⚛️ **Quantum Computing**: Pioneering research in cutting-edge quantum technologies
 - 🖥️ **IT Support**: Years of experience in IT infrastructure and troubleshooting.
 
 ## 🎯 Goals
@@ -27,7 +27,7 @@ Currently, I’m working on exciting projects through the
 
 ## 🔗 Fun Section: Create a Bell State  
 
-Here’s a simple **Quantum Circuit** for creating a Bell state._
+Here’s a simple **Quantum Circuit** for creating a Bell state.
 Can you modify it to entangle more qubits? 🧑‍💻
 
 ```python
