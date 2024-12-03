@@ -1,13 +1,15 @@
+## Fahed Daibes
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile;Exploring+DevOps%2C+Data+Science;And+Quantum+Computing;Building+Innovative+Tech+Solutions%21;Join+Me+on+This+Exciting+Journey;Always+learning+new+things)](https://git.io/typing-svg)
 
 ![Banner](./assets/quantum.png)
 
 ## 🚀 About Me  
 
-Hi! I’m **Fahed Daibes**, a passionate developer specializing in **DevOps**,_
+Hi! I’m a passionate developer specializing in **DevOps**,
 **Data Science**, and **Quantum Computing**.  
-I love tackling complex problems and turning ideas into innovative solutions._
-Currently, I’m working on exciting projects through the_
+I love tackling complex problems and turning ideas into innovative solutions.
+Currently, I’m working on exciting projects through the
  **MIT Emerging Talent Program** and looking forward to more impactful work.
 
 ## 💡 Core Skills & Interests
