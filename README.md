@@ -57,7 +57,7 @@ print("Bell state measurement results:", counts)
 |-------|-------|
 | ![My GIF](https://i.makeagif.com/media/7-10-2016/C4KvrW.gif) | ![Another GIF](https://miro.medium.com/v2/resize:fit:1000/1*4SAOj7-pG0_wfOVD8l0q2Q.gif) |
 
-## test
+##
 
 | ⚛️ | ⚛️ |
 |-------|-------|
