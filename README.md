@@ -1,3 +1,3 @@
 # Welcome to My GitHub Universe
 
-![Banner](<https://cdn-icons-png.flaticon.com/512/6554/6554122.png> =20x20)
+![Banner](https://cdn-icons-png.flaticon.com/256/12608/12608346.png)
