@@ -16,13 +16,15 @@ Currently, I’m working on exciting projects through the
 
 - 🔧 **DevOps**: Building automated workflows and optimizing systems.  
 - 📊 **Data Science**: Transforming data into actionable insights.  
-- ⚛️ **Quantum Computing**: Exploring real-world applications and advancements in quantum technologies.
+- ⚛️ **Quantum Computing**: Exploring real-world applications and advancements
+  in quantum technologies.
 - 🖥️ **IT Support**: Years of experience in IT infrastructure and troubleshooting.
 
 ## 🎯 Goals
 
 - 🌱 Contribute to impactful open-source projects.  
-- 🎓 Contribute to quantum computing projects and explore real-world applications in the field.  
+- 🎓 Contribute to quantum computing projects and explore real-world applications
+  in the field.  
 
 ## 🔗 Fun Section: Create a Bell State  
 
